@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "clean-up-code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon clean-up-code.js",
+    "start-server": "node clean-up-code.js"
+  },
+  "author": "Rudransh Gautam",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
